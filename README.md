@@ -1,4 +1,4 @@
-# Forked from https://github.com/Zizaco/entrust.
+# Forked from https://github.com/proshore/entrust-lumen
 
 # ENTRUST (Lumen 5 Package)
 
